@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IQKeyboardManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FirstTask.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FirstTaskTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FirstTaskUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>596F8F9F2B49C3BFF3C938A74B72E8EE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7854C4341E33B32FC77544A95922244D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9650B5ADCE86F1A055FAFC635284BDB5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCC2F13BD553D4DE1B22499BAB97AC26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
